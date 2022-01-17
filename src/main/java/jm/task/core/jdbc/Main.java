@@ -10,7 +10,7 @@ public class Main {
 
        us.createUsersTable();
 
-       us.saveUser("Donatelo", "Staff", (byte) 21);
+       us.saveUser("Donatello", "Staff", (byte) 21);
        us.saveUser("Rafael", "Sais", (byte) 21);
        us.saveUser("Michelangelo", "Nunchucks", (byte) 21);
        us.saveUser("Leonardo", "Swords", (byte) 21);
